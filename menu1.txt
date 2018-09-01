@@ -1,0 +1,24 @@
+                 ********************************
+                 SIR M VISHESHWARYA SUPERMARKET ©
+               ************************************
+
+                   WELCOME TO THE INDIA'S BEST 
+                       ONLINE SUPERMARKET
+
+                _________________________________
+                |                               |
+                |          LOGIN PAGE           |
+                |_______________________________|
+
+
+              Sign In TO ENTER INTO THE SUPERMARKET
+
+                +*******************************+
+                #                               #
+                #      1. Sign In               #
+                #      2. Sign up               #
+                #      0. Exit                  #
+                #                               #
+                +*******************************+
+
+                Enter your choice :  

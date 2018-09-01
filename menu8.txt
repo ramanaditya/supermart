@@ -1,0 +1,22 @@
+
+
+                   WELCOME TO THE INDIA'S BEST 
+                       ONLINE SUPERMARKET
+
+                _________________________________
+                |                               |
+                |           MAIN MENU           |
+                |_______________________________|
+
+                +*******************************+
+                #                               #
+                #      1. Billing               #
+                #      2. Edit Stock Details    #
+                #      3. Reset Database        #
+                #      4. Show Stock Details    #
+                #      5. Log Out               #
+                #      6. Exit                  #
+                #                               #
+                +*******************************+
+
+                Enter your choice :  
